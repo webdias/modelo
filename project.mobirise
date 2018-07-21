@@ -1085,6 +1085,19 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-07-21-at-9.17.12-am-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-07-21-at-9.17.12-am-640x640-640x640.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
                 "active": true,
                 "title": ""
               }
